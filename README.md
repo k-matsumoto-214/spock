@@ -1,0 +1,2 @@
+# spock
+spockの練習
